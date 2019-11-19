@@ -1,7 +1,3 @@
-// A01282531
-// Helena Ruiz Ramirez
-// 19 de noviembre de 2019
-// Tarea: Phone Book
 #include <iostream>
 #include <map>
 #include <string>
